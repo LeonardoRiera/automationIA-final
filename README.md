@@ -11,9 +11,9 @@ Automatización desarrollada en Make para gestionar consultas de soporte, combin
 
 - [Documentación completa](https://docs.google.com/document/d/1x9XmH0uIC6AEFO_JrA1XFbdhbaezR2p8FwcqKGFPLSg/edit?usp=sharing)
   
-- [Video demo]((https://docs.google.com/videos/d/1FgGUz9bi7sYu2dzGULRS78dcWtuUZjOAc0W15BomQC8/play?usp=sharing))
+- [Video demo](https://docs.google.com/videos/d/1FgGUz9bi7sYu2dzGULRS78dcWtuUZjOAc0W15BomQC8/play?usp=sharing)
 
-- [Blueprint de Make]((https://drive.google.com/file/d/1DPFJMwzSksdYUHdAteIvDgqaHpPDNJ9p/view?usp=sharing))
+- [Blueprint de Make](https://drive.google.com/file/d/1DPFJMwzSksdYUHdAteIvDgqaHpPDNJ9p/view?usp=sharing)
 
 ## Resumen
 
